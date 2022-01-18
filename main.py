@@ -2,6 +2,7 @@ import requests
 
 temperatures = []
 
+br = 0
 
 def heatmin():
     return temperatures[0]
